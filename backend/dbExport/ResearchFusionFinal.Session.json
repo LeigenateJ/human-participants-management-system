@@ -1,0 +1,820 @@
+[{
+  "_id": {
+    "$oid": "6525c19001318010839bbc08"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE83456",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "10:30",
+  "location": "303-205",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbba"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbb"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbc"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbd"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbe"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-10T21:26:40.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:26:40.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525c1be01318010839bbc0c"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE88117",
+  "date": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "time": "14:30",
+  "location": "Onlin",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbf"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc0"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc1"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc2"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc3"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-10T21:27:26.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:27:26.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525c1f701318010839bbc10"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE59780",
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "time": "13:30",
+  "location": "OGGB 305",
+  "note": "",
+  "participantNum": 5,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc4"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc5"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc6"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc7"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc8"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-10T21:28:23.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:28:23.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e72801318010839bbd5c"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE91712",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "02:05",
+  "location": "Room 301",
+  "note": "",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedb"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedc"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedd"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcede"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedf"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:07:04.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:07:04.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e86601318010839bbd60"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE82328",
+  "date": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "time": "14:15",
+  "location": "OGGB 053",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceea"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceeb"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceec"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceed"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceee"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:12:22.945Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:12:22.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e88e01318010839bbd64"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE61695",
+  "date": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "time": "15:00",
+  "location": "Online",
+  "note": "",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcefd"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcefe"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfceff"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcefb"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcefc"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcefa"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcef9"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:13:02.632Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:13:02.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e8c101318010839bbd68"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE22696",
+  "date": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "time": "14:00",
+  "location": "Room 552",
+  "note": "Check the time",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee5"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee6"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee7"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee8"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee9"
+    }
+  ],
+  "isArchive": true,
+  "createdAt": {
+    "$date": "2023-10-11T00:13:53.692Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:25:34.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e92601318010839bbde9"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE73889",
+  "date": {
+    "$date": "2023-12-23T00:00:00.000Z"
+  },
+  "time": "10:30",
+  "location": "303-449 ",
+  "note": "",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13f"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13e"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13d"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13c"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13b"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:15:34.341Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:15:34.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e94101318010839bbded"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE73078",
+  "date": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "time": "02:15",
+  "location": "Room 505",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd140"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd141"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd142"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd143"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd144"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd145"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd146"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd147"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd148"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd149"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:16:01.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:16:01.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525e95901318010839bbdf1"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE53022",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "15:20",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd136"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd137"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd138"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd139"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13a"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd13b"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:16:25.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:16:25.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525eba601318010839bbe93"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE84939",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "14:30",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedb"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedc"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedd"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcede"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcedf"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:26:14.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:26:14.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525ebbc01318010839bbe97"
+  },
+  "studyId": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "sessionCode": "SE30953",
+  "date": {
+    "$date": "2023-10-26T00:00:00.000Z"
+  },
+  "time": "13:30",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee4"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee5"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee6"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee7"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee8"
+    },
+    {
+      "$oid": "6525c1d7d6f83c1e52dfcee9"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:26:36.727Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:26:36.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525ef4c01318010839bbf1c"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE37778",
+  "date": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "time": "13:30",
+  "location": "Online",
+  "note": "Check the time",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd150"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd14f"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd151"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd152"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:41:48.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:41:48.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525ef7201318010839bbf46"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE32082",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "17:46",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd136"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd137"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd138"
+    }
+  ],
+  "isArchive": true,
+  "createdAt": {
+    "$date": "2023-10-11T00:42:26.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:42:32.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525ef9601318010839bbf73"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE17237",
+  "date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "time": "10:00",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd136"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd137"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd138"
+    }
+  ],
+  "isArchive": true,
+  "createdAt": {
+    "$date": "2023-10-11T00:43:02.976Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:43:10.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525efb201318010839bbf7a"
+  },
+  "studyId": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "sessionCode": "SE13306",
+  "date": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "time": "17:50",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd140"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd141"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd142"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd143"
+    },
+    {
+      "$oid": "6525ccfbd6f83c1e52dfd144"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:43:30.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:43:30.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525f2c501318010839bbfff"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE48828",
+  "date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "time": "14:50",
+  "location": "Online",
+  "note": "",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc4"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc5"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc6"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T00:56:37.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T00:56:37.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525f42901318010839bc025"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE38846",
+  "date": {
+    "$date": "2023-11-25T00:00:00.000Z"
+  },
+  "time": "16:00",
+  "location": "online",
+  "note": "",
+  "participantNum": 20,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbba"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbb"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbc"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbd"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T01:02:33.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T01:04:43.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525f4d001318010839bc04e"
+  },
+  "studyId": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "sessionCode": "SE33761",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "16:05",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbbb"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc1"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc2"
+    },
+    {
+      "$oid": "6525c0bbd6f83c1e52dfcbc3"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T01:05:20.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T01:05:20.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525f52001318010839bc093"
+  },
+  "studyId": {
+    "$oid": "65252b731692c8034aae0483"
+  },
+  "sessionCode": "SE48137",
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "time": "14:00",
+  "location": "Online",
+  "note": "",
+  "participantNum": 10,
+  "participantList": [
+    {
+      "$oid": "6525c132d6f83c1e52dfcd47"
+    },
+    {
+      "$oid": "6525c132d6f83c1e52dfcd48"
+    },
+    {
+      "$oid": "6525c132d6f83c1e52dfcd49"
+    },
+    {
+      "$oid": "6525c132d6f83c1e52dfcd4a"
+    },
+    {
+      "$oid": "6525c132d6f83c1e52dfcd4b"
+    }
+  ],
+  "isArchive": false,
+  "createdAt": {
+    "$date": "2023-10-11T01:06:40.713Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T01:06:40.713Z"
+  },
+  "__v": 0
+}]

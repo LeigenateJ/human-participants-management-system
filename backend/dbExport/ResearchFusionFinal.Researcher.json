@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6524b6d26fef6a16728695a0"
+  },
+  "firstName": "Ewan",
+  "lastName": "Tempero",
+  "email": "ewan@gmail.com",
+  "username": "ewan",
+  "password": "$2b$10$CWFxz97D4u2rnjWRSYWDtuKzWwh4vgecDSCoTtytLmilYochCfbSW",
+  "studyList": [
+    {
+      "$oid": "65252cd01692c8034aae0571"
+    },
+    {
+      "$oid": "65252d5d1692c8034aae05aa"
+    },
+    {
+      "$oid": "65252da51692c8034aae05e3"
+    },
+    {
+      "$oid": "65252a661692c8034aae0444"
+    }
+  ],
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2023-10-10T21:07:53.490Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6524b7ea6fef6a16728695a1"
+  },
+  "firstName": "Yu-cheng",
+  "lastName": "Tu",
+  "email": "yucheng@gmail.com",
+  "username": "yucheng",
+  "password": "$2b$10$CWFxz97D4u2rnjWRSYWDtuKzWwh4vgecDSCoTtytLmilYochCfbSW",
+  "studyList": [
+    {
+      "$oid": "65252e141692c8034aae0624"
+    },
+    {
+      "$oid": "65252e731692c8034aae065d"
+    },
+    {
+      "$oid": "65252eca1692c8034aae0696"
+    },
+    {
+      "$oid": "65252c571692c8034aae04fd"
+    }
+  ],
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2023-10-10T21:02:15.265Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6524b8286fef6a16728695a2"
+  },
+  "firstName": "Dev",
+  "lastName": "ICT",
+  "email": "dev@gmail.com",
+  "username": "dev",
+  "password": "$2b$10$CWFxz97D4u2rnjWRSYWDtuKzWwh4vgecDSCoTtytLmilYochCfbSW",
+  "studyList": [
+    {
+      "$oid": "65252a661692c8034aae0444"
+    },
+    {
+      "$oid": "65252b731692c8034aae0483"
+    },
+    {
+      "$oid": "65252bfb1692c8034aae04c4"
+    },
+    {
+      "$oid": "65252c571692c8034aae04fd"
+    }
+  ],
+  "isActive": true,
+  "updatedAt": {
+    "$date": "2023-10-10T10:49:59.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "652531651692c8034aae087f"
+  },
+  "firstName": "Zijia",
+  "lastName": "Liu",
+  "email": "abbyliu@gmail.com",
+  "username": "abbyliu",
+  "password": "$2b$10$xxJwrf4OhxeLrbD4.gaJoOZYN5zbclORWcdma9Jqs4KZi5MRs.ope",
+  "studyList": [
+    {
+      "$oid": "65252bfb1692c8034aae04c4"
+    },
+    {
+      "$oid": "65252a661692c8034aae0444"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:11:34.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:31:54.967Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "652531941692c8034aae088b"
+  },
+  "firstName": "Jessica",
+  "lastName": "Chang",
+  "email": "Jessica@gmail.com",
+  "username": "Jessica",
+  "password": "$2b$10$NaW5uifEUMwJGvyak6eUzO5sq8R7Xg4MsMev1dwrNM.PblIKndDzi",
+  "studyList": [
+    {
+      "$oid": "65252a661692c8034aae0444"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:12:20.722Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:32:03.642Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "652531b01692c8034aae0897"
+  },
+  "firstName": "Jenkin",
+  "lastName": "Dong",
+  "email": "jenkin@gmail.com",
+  "username": "jenkin",
+  "password": "$2b$10$nPFWG.6Dw4o0q5v59h.b9OvnbOAC5FOcaXD/ntYfD2PkuHVfBXMye",
+  "studyList": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:12:48.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:41:45.926Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "652531c51692c8034aae08a3"
+  },
+  "firstName": "Ethan",
+  "lastName": "Wang",
+  "email": "ethan@gmail.com",
+  "username": "ethan",
+  "password": "$2b$10$mJshqXkmzi229fjTGZfcmumL8rKZImXhJD8FbTjCw1pgb5KJwJw8y",
+  "studyList": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:13:09.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T11:13:14.811Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6525346d1692c8034aae0a52"
+  },
+  "firstName": "Abby",
+  "lastName": "Gao",
+  "email": "abi@gmail.com",
+  "username": "abi",
+  "password": "$2b$10$EFuHn/YUuXYrOkLYgHmYl.N8OHEFYBCpRQKHnM/v3x7Ub093g36uC",
+  "studyList": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:24:29.945Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T11:24:51.594Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "652535b01692c8034aae0aa0"
+  },
+  "firstName": "Ellen",
+  "lastName": "Jelly",
+  "email": "Ele123@gmail.com",
+  "username": "Ele123",
+  "password": "$2b$10$DEiZV77uPEiRJd7hMpMSMeGYFWwkA2RryB9bW8yoGLR7rXxtucoBC",
+  "studyList": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-10-10T11:29:52.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:09:32.580Z"
+  },
+  "__v": 1
+}]

@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "65252a661692c8034aae0444"
+  },
+  "studyCode": "STUDY001",
+  "studyName": "Impact of Quantum Computing on Cryptography",
+  "description": "Research into the potential risks and advantages quantum computing poses to modern cryptographic methods.\nThis study will be an anonymous study in Silicon Valley and Boston.",
+  "creator": {
+    "$oid": "6524b8286fef6a16728695a2"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b8286fef6a16728695a2"
+    },
+    {
+      "$oid": "6524b6d26fef6a16728695a0"
+    },
+    {
+      "$oid": "652531651692c8034aae087f"
+    },
+    {
+      "$oid": "652531941692c8034aae088b"
+    }
+  ],
+  "studyType": "Experiment",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 50,
+  "participantNum": 100,
+  "recruitmentStartDate": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-10-29T00:00:00.000Z"
+  },
+  "location": [
+    "Silicon Valley",
+    "Boston"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "http://example.com/survey2",
+  "driveLink": "http://drive.example.com/drive2",
+  "createdAt": {
+    "$date": "2023-10-10T10:41:42.332Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:41:46.017Z"
+  },
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "65252b731692c8034aae0483"
+  },
+  "studyCode": "STUDY002",
+  "studyName": "Efficacy of Machine Learning in Predicting Stock Market Trends",
+  "description": "Exploration into how advanced machine learning algorithms can be used for financial forecasting.",
+  "creator": {
+    "$oid": "6524b8286fef6a16728695a2"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b8286fef6a16728695a2"
+    }
+  ],
+  "studyType": "Questionnaire",
+  "isAnonymous": false,
+  "anonymousParticipantNum": null,
+  "participantNum": 80,
+  "recruitmentStartDate": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "location": [
+    "Wall Street",
+    "Chicago"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "http://example.com/survey3",
+  "driveLink": "http://drive.example.com/drive3",
+  "createdAt": {
+    "$date": "2023-10-10T10:46:11.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:46:11.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252bfb1692c8034aae04c4"
+  },
+  "studyCode": "STUDY003",
+  "studyName": "Performance Benchmarks of Serverless Architectures",
+  "description": "Investigating the runtime performance, cold starts, and scalability of various serverless platforms.",
+  "creator": {
+    "$oid": "6524b8286fef6a16728695a2"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b8286fef6a16728695a2"
+    },
+    {
+      "$oid": "652531651692c8034aae087f"
+    }
+  ],
+  "studyType": "Online Survey",
+  "isAnonymous": false,
+  "anonymousParticipantNum": null,
+  "participantNum": 150,
+  "recruitmentStartDate": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2024-02-24T00:00:00.000Z"
+  },
+  "location": [
+    "Seattle",
+    "San Francisco"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "http://example.com/survey4",
+  "driveLink": "",
+  "createdAt": {
+    "$date": "2023-10-10T10:48:27.317Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:18:15.728Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65252c571692c8034aae04fd"
+  },
+  "studyCode": "STUDY004",
+  "studyName": "IoT Security Vulnerabilities and Solutions",
+  "description": "Analyzing the most common security vulnerabilities in IoT devices and proposing robust security protocols.",
+  "creator": {
+    "$oid": "6524b8286fef6a16728695a2"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b8286fef6a16728695a2"
+    },
+    {
+      "$oid": "6524b7ea6fef6a16728695a1"
+    }
+  ],
+  "studyType": "Online Survey",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 70,
+  "participantNum": 300,
+  "recruitmentStartDate": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  },
+  "location": [],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "",
+  "driveLink": "http://drive.example.com/drive5",
+  "createdAt": {
+    "$date": "2023-10-10T10:49:59.037Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:07:53.988Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65252cd01692c8034aae0571"
+  },
+  "studyCode": "ML001",
+  "studyName": "Neural Networks in Image Recognition",
+  "description": "Evaluating the accuracy and efficiency of various neural network architectures in image and pattern recognition tasks.",
+  "creator": {
+    "$oid": "6524b6d26fef6a16728695a0"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b6d26fef6a16728695a0"
+    }
+  ],
+  "studyType": "Experiment",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 30,
+  "participantNum": 90,
+  "recruitmentStartDate": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-11-18T00:00:00.000Z"
+  },
+  "location": [
+    "Tokyo",
+    "Beijing"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "https://example.com/survey6",
+  "driveLink": "",
+  "createdAt": {
+    "$date": "2023-10-10T10:52:00.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:52:00.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252d5d1692c8034aae05aa"
+  },
+  "studyCode": "STUDY006",
+  "studyName": "Enhancing AR/VR Experiences in Education",
+  "description": "Research on how augmented and virtual reality can be tailored to improve learning experiences for students.",
+  "creator": {
+    "$oid": "6524b6d26fef6a16728695a0"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b6d26fef6a16728695a0"
+    }
+  ],
+  "studyType": "Focus Group",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 40,
+  "participantNum": 100,
+  "recruitmentStartDate": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  },
+  "location": [
+    "University of Auckland",
+    "Room 101"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "",
+  "driveLink": "https://drive.example.com/drive7",
+  "createdAt": {
+    "$date": "2023-10-10T10:54:21.623Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:54:21.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252da51692c8034aae05e3"
+  },
+  "studyCode": "STUDY007",
+  "studyName": "Blockchain Efficiency in Transaction Speeds",
+  "description": "Exploring the trade-offs between transaction speed, security, and decentralization in different blockchain architectures.",
+  "creator": {
+    "$oid": "6524b6d26fef6a16728695a0"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b6d26fef6a16728695a0"
+    }
+  ],
+  "studyType": "Experiment",
+  "isAnonymous": false,
+  "anonymousParticipantNum": null,
+  "participantNum": 80,
+  "recruitmentStartDate": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "location": [
+    "New Zealand",
+    "China"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "",
+  "driveLink": "",
+  "createdAt": {
+    "$date": "2023-10-10T10:55:33.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:55:33.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252e141692c8034aae0624"
+  },
+  "studyCode": "STUDY008",
+  "studyName": "Optimizing Databases for Cloud Infrastructures",
+  "description": "Studying the performance benefits and drawbacks of cloud-native databases versus traditional databases migrated to the cloud.",
+  "creator": {
+    "$oid": "6524b7ea6fef6a16728695a1"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b7ea6fef6a16728695a1"
+    }
+  ],
+  "studyType": "Interview",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 25,
+  "participantNum": 125,
+  "recruitmentStartDate": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  },
+  "location": [],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "https://example.com/survey9",
+  "driveLink": "",
+  "createdAt": {
+    "$date": "2023-10-10T10:57:24.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:57:24.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252e731692c8034aae065d"
+  },
+  "studyCode": "STUDY009",
+  "studyName": "Natural Language Processing in Automated Support Systems",
+  "description": "Investigating the feasibility and user satisfaction of NLP-driven automated support chatbots in IT services.",
+  "creator": {
+    "$oid": "6524b7ea6fef6a16728695a1"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b7ea6fef6a16728695a1"
+    }
+  ],
+  "studyType": "Focus Group",
+  "isAnonymous": false,
+  "anonymousParticipantNum": null,
+  "participantNum": 110,
+  "recruitmentStartDate": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "location": [
+    "London"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "http://example.com/survey10",
+  "driveLink": "http://drive.example.com/drive10",
+  "createdAt": {
+    "$date": "2023-10-10T10:58:59.270Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T10:58:59.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65252eca1692c8034aae0696"
+  },
+  "studyCode": "STUDY010",
+  "studyName": "Usability Testing of Dark Mode Interfaces",
+  "description": "Determining the impact of dark mode user interfaces on usability, user preference, and eye strain in IT applications.",
+  "creator": {
+    "$oid": "6524b7ea6fef6a16728695a1"
+  },
+  "researcherList": [
+    {
+      "$oid": "6524b7ea6fef6a16728695a1"
+    }
+  ],
+  "studyType": "Experiment",
+  "isAnonymous": true,
+  "anonymousParticipantNum": 20,
+  "participantNum": 140,
+  "recruitmentStartDate": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "recruitmentCloseDate": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "location": [
+    "Sydney",
+    "Melbourne"
+  ],
+  "isClosed": false,
+  "isCleared": false,
+  "surveyLink": "http://example.com/survey11",
+  "driveLink": "http://drive.example.com/drive11",
+  "createdAt": {
+    "$date": "2023-10-10T11:00:26.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T11:00:26.652Z"
+  },
+  "__v": 0
+}]

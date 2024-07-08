@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6525c154d6f83c1e52dfcda3"
+  },
+  "tagName": "Student",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-10-10T21:25:40.734Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:25:40.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6525c168d6f83c1e52dfcda7"
+  },
+  "tagName": "MIT",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-10-10T21:26:00.122Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:26:00.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6525c1efd6f83c1e52dfcf37"
+  },
+  "tagName": "CS",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-10-10T21:28:15.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T21:28:15.529Z"
+  }
+}]
